@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Ahmad Abu Turab Naqvi",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://abuturabnaqvi.github.io/",
+    "summary": "A bioinformatician, computational biologist, data scientist and poet.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Jamia Nagar",
+      "postalCode": "110025",
+      "city": "New Delhi",
+      "countryCode": "India",
+      "region": "Delhi-NCR"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Abu Turab Naqvi",
+        "url": "https://www.linkedin.com/in/abu-turab-naqvi/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "CIRBSc, JMI, New Delhi",
+      "position": "DST SERB Senior Research Fellow",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "30/09/2016",
+      "endDate": "06/08/2019",
+      "summary": "As Bioinformatician, I contributed to the in-silico part of the project which dealt with screening and filtering of potential compounds as inhibitors of MARK4 kinase activity. I performed molecular docking and molecular dynamics simulations to design inhibitors against MARK4. I efficiently used chemoinformatics techniques to screen compounds and performed docking (AutoDock Suit) and MD simulations (GROMACS).",
+      "highlights": ["Structural Bioinformatics"]
     }
   ],
   "volunteer": [
@@ -47,24 +47,32 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Jamia Millia Islamia",
+      "location": "New Delhi, India",
+      "url": "https://www.jmi.ac.in/",
+      "area": "Bioinformatics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "August 2018",
+      "endDate": "October 2023",
+      "Thesis": ["Analysis of Gene Expression Data for Cancer Classification using Artificial Intelligence Techniques."]
+    },
+    {
+      "institution": "Jamia Millia Islamia",
+      "location": "New Delhi, India",
+      "url": "https://www.jmi.ac.in/",
+      "area": "Bioinformatics",
+      "studyType": "Master of Science",
+      "startDate": "July 2012",
+      "endDate": "June 2014",
+      "Thesis": ["Funcational Annotation of Hypothetical Proteins from Treponema pallidum."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "JMI Achievers Award",
+      "date": "October 2023",
+      "awarder": "Jamia Millia Islamia",
+      "summary": "For performance in Research and Academics during the year 2022-2023"
     }
   ],
   "certificates": [
