@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a bioinformatics researcher and educator. I run a blog named [Bioinfopedia](https://bioinfopedia.wordpress.com/). 
+I work as an educator and researcher in bioinformatics. [Bioinfopedia](https://bioinfopedia.wordpress.com/) is the name of my blog. My areas of expertise include computational drug discovery, epigenomics, AI/ML in healthcare, and computational cancer genomics.
 
-I have a PhD degree in Bioinformtics. I work in the field of Computational Cancer Genomics, Epigenomics, AI/ML in Healthcare, and Compuational Drug Discovery. 
+For analysis and visualization, I use shell scripting, R, and Python. I have worked in the fields of computational genomics, NGS data analysis, single cell data analysis, structural bioinformatics, and CADD for more than eight years. 
