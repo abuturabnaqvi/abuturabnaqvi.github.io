@@ -2,7 +2,7 @@ github_users:
   - abuturabnaqvi
 
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - abuturabnaqvi/MD_Simulations_Resources
